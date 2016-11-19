@@ -93,7 +93,7 @@ class Index extends Component {
       <div style={{width : '100%', height: '100%', overflow: 'hidden'}}>
         <div style={{textAlign : 'center'}}>
           <div style={{margin : '0 auto', position : 'relative', width : 300, height : 64}}>
-            <a href='/' style={{height : 64, display : 'inline-block'}}><img style={{width : 64, height : 64}} src='./jagr.png' /></a>
+            <a href='https://github.com/nkfly' style={{height : 64, display : 'inline-block'}}><img style={{width : 64, height : 64}} src='./jagr.png' /></a>
             <div style={{position : 'absolute', top : 19, right : 9}}>
               <a style={{textDecoration : 'none'}} href='mailto:nkflyfly@gmail.com'>
               <span style={{position : 'relative', left : '5px', fontSize : '15px', color : 'rgba(0, 0, 0, 0.87)'}}>JAGR</span>
