@@ -116,7 +116,7 @@ class Index extends Component {
 
                 id2matchNumber.sort(
                     function(a, b) {
-                        return a[1] - b[1]
+                        return b[1] - a[1];
                     }
                 );
 
